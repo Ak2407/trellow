@@ -1,11 +1,10 @@
 import Image from "next/image";
-import landing from "@/public/landing.png";
 
 const Graphic = () => {
   return (
     <div className="flex flex-col gap-4">
       <Image
-        src={landing}
+        src="/landing.png"
         width={683}
         height={606}
         alt="hero_img"
