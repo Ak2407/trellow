@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   description: siteConfig.description,
   icons: [
     {
-      url: "/landing.png",
-      href: "landing.png",
+      url: "/landing.svg",
+      href: "/landing.svg",
     },
   ],
 };

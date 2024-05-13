@@ -4,7 +4,7 @@ const Graphic = () => {
   return (
     <div className="flex flex-col gap-4">
       <Image
-        src="/landing.png"
+        src="/landing.svg"
         width={683}
         height={606}
         alt="hero_img"
