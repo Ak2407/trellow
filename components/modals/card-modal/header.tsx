@@ -73,7 +73,7 @@ const Header = ({ data }: HeaderProps) => {
           />
         </form>
         <p className="text-sm text-muted-foreground">
-          in list <span className="underline"> {data.list.title}</span>
+          in list <span className="underline"> {data.lists.title}</span>
         </p>
       </div>
     </div>
