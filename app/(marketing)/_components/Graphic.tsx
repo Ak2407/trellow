@@ -5,8 +5,8 @@ const Graphic = () => {
     <div className="flex flex-col gap-4">
       <Image
         src="/landing.svg"
-        width={683}
-        height={606}
+        width={600}
+        height={600}
         alt="hero_img"
         className=" ml-auto "
       />

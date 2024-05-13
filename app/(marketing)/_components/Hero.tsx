@@ -7,13 +7,13 @@ const Hero = () => {
     <div>
       <div className="flex flex-col gap-8">
         <div className="flex flex-col gap-4">
-          <h1 className="lg:text-6xl text-6xl font-bold text-center lg:text-left">
+          <h1 className="lg:text-6xl text-5xl font-bold text-center lg:text-left">
             Easy
           </h1>
-          <h1 className="lg:text-6xl text-6xl font-bold text-center lg:text-left">
+          <h1 className="lg:text-6xl text-5xl font-bold text-center lg:text-left">
             Management
           </h1>
-          <h1 className="lg:text-6xl text-6xl font-bold text-center lg:text-left">
+          <h1 className="lg:text-6xl text-5xl font-bold text-center lg:text-left">
             of Tasks.
           </h1>
         </div>

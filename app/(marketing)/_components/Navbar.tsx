@@ -10,14 +10,14 @@ const Navbar = () => {
         <Button
           size="lg"
           asChild
-          className="bg-[#57428B] text-white hover:bg-[#4C3C7A] font-semibold text-xl"
+          className="bg-[#57428B] text-white hover:bg-[#4C3C7A] font-semibold text-lg"
         >
           <Link href="/sign-up">Sign up</Link>
         </Button>
         <Button
           size="lg"
           asChild
-          className="bg-[#F6C8D0] text-black hover:bg-[#F4B9C3] font-semibold  text-xl"
+          className="bg-[#F6C8D0] text-black hover:bg-[#F4B9C3] font-semibold  text-lg"
         >
           <Link href="/sign-in">Sign in</Link>
         </Button>
